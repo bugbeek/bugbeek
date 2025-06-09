@@ -10,7 +10,7 @@ Crafting performant backends, automating everything, and turning complex systems
 
 I'm a **backend-first software engineer** with 6+ years of professional experience building scalable, fault-tolerant systems using **Python** and modern cloud-native stacks.
 
-From architecting microservices to deploying production-grade apps on AWS with seamless CI/CD pipelines — I thrive in solving challenging backend problems with clean, well-tested code.
+From architecting microservices to deploying production-grade apps on AWS with seamless CI/CD pipelines, I thrive in solving challenging backend problems with clean, well-tested code.
 
 ---
 
@@ -70,7 +70,7 @@ From architecting microservices to deploying production-grade apps on AWS with s
 
 ### ✨ Fun Bits About Me
 
-- 🧩 I see backend code like a puzzle — every bug is just a missing piece
+- 🧩 I see backend code like a puzzle every bug is just a missing piece
 - 🛠️ I automate everything I can, from deployments to my coffee machine (almost!)
 - 📖 I believe in clean code, clear documentation, and continuous learning
 
@@ -81,4 +81,11 @@ From architecting microservices to deploying production-grade apps on AWS with s
 
 ---
 
-🔍 *Open to exciting backend engineering opportunities & collaborations — let’s build something great together!*
+🔍 *Open to exciting backend engineering opportunities & collaborations, let’s build something great together!*
+
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashutoshsingh23&theme=react-dark" />
+</p>
+
