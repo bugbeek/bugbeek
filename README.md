@@ -86,6 +86,6 @@ From architecting microservices to deploying production-grade apps on AWS with s
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashutoshsingh23&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bugbeek&theme=react-dark" />
 </p>
 
